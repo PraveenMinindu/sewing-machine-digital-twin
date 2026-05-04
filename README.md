@@ -243,6 +243,10 @@ micro_twin/
 ```
 
 ---
+# Dashboard
+<img width="833" height="523" alt="image" src="https://github.com/user-attachments/assets/3b58459f-ac30-4695-9e62-548905b3511e" />
+
+
 
 ## Installation and Setup
 

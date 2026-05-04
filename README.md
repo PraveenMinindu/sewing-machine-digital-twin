@@ -244,7 +244,9 @@ micro_twin/
 
 ---
 # Dashboard
-<img width="833" height="523" alt="image" src="https://github.com/user-attachments/assets/3b58459f-ac30-4695-9e62-548905b3511e" />
+<img width="829" height="519" alt="image" src="https://github.com/user-attachments/assets/15960ab7-67c7-4fbd-b345-ac9103757c3e" />
+
+
 
 
 

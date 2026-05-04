@@ -1,0 +1,27 @@
+name: micro_twin_dashboard
+description: Sewing machine digital twin dashboard.
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.3.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # WebSocket & state
+  web_socket_channel: ^2.4.5
+  flutter_bloc: ^8.1.5
+  equatable: ^2.0.5
+
+  # DI & functional
+  get_it: ^7.7.0
+  dartz: ^0.10.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
